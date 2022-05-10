@@ -13,16 +13,16 @@ export class SetupServer extends Server {
     this.setupExpress();
     this.setupControllers();
   }
-  
+
   private setupExpress(): void {
     this.app.use(bodyParser.json());
   }
-  
+
   private setupControllers(): void {
     const postsController = new PostsController();
     this.addControllers([postsController]);
   }
-  
+
   public getApp(): Application {
     return this.app;
   }
