@@ -1,0 +1,25 @@
+{
+  "name": "social-gaming",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API for gaming social media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfvmarques/social-gaming.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api",
+    "game"
+  ],
+  "author": "Henrique Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfvmarques/social-gaming/issues"
+  },
+  "homepage": "https://github.com/hfvmarques/social-gaming#readme"
+}
