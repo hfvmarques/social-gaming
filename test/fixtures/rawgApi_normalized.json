@@ -1,0 +1,26 @@
+{
+  "id": 3498,
+  "slug": "grand-theft-auto-v",
+  "name": "Grand Theft Auto V",
+  "released": "2013-09-17",
+  "background_image": "https://media.rawg.io/media/games/456/456dea5e1c7e3cd07060c14e96612001.jpg",
+  "rating": 4.48,
+  "rating_top": 5,
+  "ratings_count": 5614,
+  "metacritic": 92,
+  "updated": "2021-08-20T12:42:02",
+  "platforms": [
+    { "name": "Xbox One" },
+    { "name": "Xbox Series S/X" },
+    { "name": "Xbox 360" },
+    { "name": "PlayStation 3" },
+    { "name": "PlayStation 4" },
+    { "name": "PlayStation 5" },
+    { "name": "PC" }
+  ],
+  "genres": [
+    { "id": 4, "name": "Action" },
+    { "id": 3, "name": "Adventure" }
+  ],
+  "esrb_rating": { "id": 4, "name": "Mature" }
+}
